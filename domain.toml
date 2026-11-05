@@ -1,0 +1,8 @@
+# SPDX-License-Identifier: MIT
+name = "rdf-modelling"
+description = "How to model well in RDF and OWL: asking for existing terms first, reality before simplification, judgements evaluated from facts, domain and range, the open world, safe simplification and the runtime cost of a term"
+visibility = "public"
+rules = []
+
+[skill_values]
+maintainer = "the maintainer"
